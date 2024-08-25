@@ -17,8 +17,7 @@ This report presents an exploratory and descriptive analysis of the bike sales d
 
 ### 2. Data Overview
 The dataset spans six years of sales transactions, containing 18 columns and 112,036 rows. Key information includes Date, Day, Month, Year, Customer Age, Age Group, Customer Gender, Country, State, Product Category, Sub Category, Product, Order Quantity, Unit Cost, Unit Price, Revenue, Cost, and Profit. The company offers 3 Product Categories, 17 Product Subcategories, 130 Products, and sells these products across 6 countries: the United States, the United Kingdom, France, Germany, Australia, and Canada.
-![sales data overview](png)
-
+![sales data overview]()
 
 ### 3. Data Preparation and Cleaning
 A database named “sales data” was created, and the dataset was imported into SQL Server after conversion to a flat file. During the import, the following changes were made:
