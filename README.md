@@ -1,7 +1,5 @@
 # Bike Sales Analysis
 
-![images alt](https://github.com/oladunniD/SQL-Bike-sales-Analysis-Project/blob/2aa7ab5689ae2981daef238083e0300d8ec79b0e/images%20(18)1.png)
-
 ## Table of contents
 
 - [Introduction](#introduction)
@@ -17,10 +15,8 @@
 ### 1. Introduction
 This report presents an exploratory and descriptive analysis of the bike sales dataset using SQL server, originally sourced from [Kaggle](https://www.kaggle.com/datasets/ma12492002/bike-market-sales-data) as an Excel file and later imported into SQL Server after being converted into a flat file. During the import process, data types were adjusted to ensure accurate analysis, and data cleaning was conducted, particularly to standardize customer gender information. This report highlights key insights derived from the dataset through various SQL queries.
 
-
 ### 2. Data Overview
 The dataset spans six years of sales transactions, containing 18 columns and 112,036 rows. Key information includes Date, Day, Month, Year, Customer Age, Age Group, Customer Gender, Country, State, Product Category, Sub Category, Product, Order Quantity, Unit Cost, Unit Price, Revenue, Cost, and Profit. The company offers 3 Product Categories, 17 Product Subcategories, 130 Products, and sells these products across 6 countries: the United States, the United Kingdom, France, Germany, Australia, and Canada.
-![sales data overview](sales%20data%20overview.png)
 
 ### 3. Data Preparation and Cleaning
 A database named “sales data” was created, and the dataset was imported into SQL Server after conversion to a flat file. During the import, the following changes were made:
@@ -30,7 +26,6 @@ A database named “sales data” was created, and the dataset was imported into
   ``` Sql
 update salesdata set Customer_Gender=replace(replace(customer_gender,'M', 'Male'),'F','Female' )
 ```
-
 ### 4. Data Analysis
 
 #### 4.1 Sales Performance Analysis
@@ -99,5 +94,13 @@ The SQL queries executed on the bike sales dataset have provided valuable insigh
 ### References
 1. SQl with Practices Exercise by D Armstrong
 2. [chatGPT](https://chatgpt.com/)
+
+😄
+
+👍
+
+💻
+
+🚲
 
 
