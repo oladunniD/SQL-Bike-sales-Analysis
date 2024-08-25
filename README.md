@@ -1,5 +1,6 @@
 # Bike Sales Analysis
-[images (18)1.png](https://github.com/oladunniD/SQL-Bike-sales-Analysis-Project/blob/2aa7ab5689ae2981daef238083e0300d8ec79b0e/images%20(18)1.png)
+
+![images alt](https://github.com/oladunniD/SQL-Bike-sales-Analysis-Project/blob/2aa7ab5689ae2981daef238083e0300d8ec79b0e/images%20(18)1.png)
 
 ## Table of contents
 
