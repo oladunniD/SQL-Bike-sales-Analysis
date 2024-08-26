@@ -1,5 +1,6 @@
 # Bike Sales Analysis
-[alt test](images%20(18)1.png)
+![images (18)](https://github.com/user-attachments/assets/444a660b-8098-43af-89d2-015a044c0822)
+
 ## Table of contents
 
 - [Introduction](#introduction)
@@ -38,7 +39,7 @@ group by Country
 order by sum(revenue)desc
 ```
 
-```
+```sql
 select Age_Group,customer_gender, sum(Revenue) 'total sales'
 from dbo.salesdata
 group by Age_Group,customer_gender
