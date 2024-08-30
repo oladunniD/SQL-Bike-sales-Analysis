@@ -1,4 +1,5 @@
 # Bike Sales Analysis
+![image](https://github.com/user-attachments/assets/4e0dc5a6-a878-4998-87ac-03f7a007bbe8)
 
 ## Table of contents
 
